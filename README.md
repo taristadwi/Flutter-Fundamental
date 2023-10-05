@@ -16,6 +16,7 @@ Buat sebuah file image_widget.dart di dalam folder basic_widgets dengan isi kode
 <img width="489" alt="image" src="https://github.com/taristadwi/Flutter-Fundamental/assets/119827471/4b9c0fae-f30a-4ca7-8c36-4fe8741cbe54">
 Lakukan penyesuaian asset pada file pubspec.yaml dan tambahkan file logo Anda di folder assets project hello_world.
 <img width="196" alt="image" src="https://github.com/taristadwi/Flutter-Fundamental/assets/119827471/42616c3a-ded8-4e00-9cb1-acbb937e55aa">
+
 Jangan lupa sesuaikan kode dan import di file main.dart kemudian akan tampil gambar seperti berikut.
 ![image](https://github.com/taristadwi/Flutter-Fundamental/assets/119827471/fc470f01-b445-4526-9a78-3bf047b8b2e0)
 

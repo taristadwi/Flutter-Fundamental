@@ -21,6 +21,34 @@ Lakukan penyesuaian asset pada file pubspec.yaml dan tambahkan file logo Anda di
 Jangan lupa sesuaikan kode dan import di file main.dart kemudian akan tampil gambar seperti berikut.
 ![image](https://github.com/taristadwi/Flutter-Fundamental/assets/119827471/fc470f01-b445-4526-9a78-3bf047b8b2e0)
 
+PRAKTIKUM 4
+Langkah 1: Cupertino Button dan Loading Bar
+Buat file di basic_widgets > loading_cupertino.dart. Import stateless widget dari material dan cupertino. Lalu isi kode di dalam method Widget build adalah sebagai berikut.
+<img width="485" alt="image" src="https://github.com/taristadwi/Flutter-Fundamental/assets/119827471/19d75346-36b3-485a-a702-ad7d1213a526">
+Langkah 2: Floating Action Button (FAB)
+Button widget terdapat beberapa macam pada flutter yaitu ButtonBar, DropdownButton, TextButton, FloatingActionButton, IconButton, OutlineButton, PopupMenuButton, dan ElevatedButton.
+
+Buat file di basic_widgets > fab_widget.dart. Import stateless widget dari material. Lalu isi kode di dalam method Widget build adalah sebagai berikut.
+<img width="384" alt="image" src="https://github.com/taristadwi/Flutter-Fundamental/assets/119827471/453c5298-1a2f-42db-b141-ce0253654714">
+
+Langkah 3: Scaffold Widget
+Scaffold widget digunakan untuk mengatur tata letak sesuai dengan material design.
+Ubah isi kode main.dart seperti berikut.
+<img width="499" alt="image" src="https://github.com/taristadwi/Flutter-Fundamental/assets/119827471/4735beda-9f97-43d1-9008-cb658a8c61b3">
+<img width="795" alt="image" src="https://github.com/taristadwi/Flutter-Fundamental/assets/119827471/61fa18a7-f89f-4fc6-8468-b0e75295c0f8">
+<img width="506" alt="image" src="https://github.com/taristadwi/Flutter-Fundamental/assets/119827471/2785ad47-d115-419d-802e-5ef30965636a">
+
+HASIL RUNNING:
+<img width="960" alt="image" src="https://github.com/taristadwi/Flutter-Fundamental/assets/119827471/9acf0e7e-8770-4f11-b97f-0942fd7a0d80">
+
+Langkah 4: Dialog Widget
+Dialog widget pada flutter memiliki dua jenis dialog yaitu AlertDialog dan SimpleDialog.
+Ubah isi kode main.dart seperti berikut.
+
+
+
+
+
 
 
 

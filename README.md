@@ -14,6 +14,7 @@ PRAKTIKUM 3
 Langkah 2: Image Widget
 Buat sebuah file image_widget.dart di dalam folder basic_widgets dengan isi kode berikut.
 <img width="489" alt="image" src="https://github.com/taristadwi/Flutter-Fundamental/assets/119827471/4b9c0fae-f30a-4ca7-8c36-4fe8741cbe54">
+
 Lakukan penyesuaian asset pada file pubspec.yaml dan tambahkan file logo Anda di folder assets project hello_world.
 <img width="196" alt="image" src="https://github.com/taristadwi/Flutter-Fundamental/assets/119827471/42616c3a-ded8-4e00-9cb1-acbb937e55aa">
 

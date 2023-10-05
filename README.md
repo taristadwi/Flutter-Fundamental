@@ -92,6 +92,7 @@ Date and Time Pickers termasuk pada kategori input dan selection widget, berikut
 
 <img width="466" alt="image" src="https://github.com/taristadwi/Flutter-Fundamental/assets/119827471/d02fac17-8686-457f-91e2-705b514b1c16">
 
+<img width="517" alt="image" src="https://github.com/taristadwi/Flutter-Fundamental/assets/119827471/cbe01d10-8296-4530-a9f0-925c7bcf3031">
 
 
 HASIL RUNNING:

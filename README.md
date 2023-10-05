@@ -63,6 +63,14 @@ Langkah 4: Dialog Widget
 Dialog widget pada flutter memiliki dua jenis dialog yaitu AlertDialog dan SimpleDialog.
 Ubah isi kode main.dart seperti berikut.
 
+<img width="618" alt="image" src="https://github.com/taristadwi/Flutter-Fundamental/assets/119827471/7a662e70-c2bf-4fb8-9029-b76eca06b555">
+
+<img width="485" alt="image" src="https://github.com/taristadwi/Flutter-Fundamental/assets/119827471/e1f439fa-81ab-4ea9-b1c1-65ee09878260">
+
+<img width="584" alt="image" src="https://github.com/taristadwi/Flutter-Fundamental/assets/119827471/786632d7-7489-4e9d-a431-5b4c91bc0487">
+
+<img width="599" alt="image" src="https://github.com/taristadwi/Flutter-Fundamental/assets/119827471/8d84cb3e-308f-4b55-9b6d-3ca642b6029d">
+
 HASIL RUNNING:
 
 <img width="959" alt="image" src="https://github.com/taristadwi/Flutter-Fundamental/assets/119827471/57af9f46-a41f-49a5-a5b7-12de525e62c3">
@@ -71,7 +79,7 @@ Langkah 5: Input dan Selection Widget
 Flutter menyediakan widget yang dapat menerima input dari pengguna aplikasi yaitu antara lain Checkbox, Date and Time Pickers, Radio Button, Slider, Switch, TextField.
 Contoh penggunaan TextField widget adalah sebagai berikut:
 
-<img width="361" alt="image" src="https://github.com/taristadwi/Flutter-Fundamental/assets/119827471/509b6bc7-99e8-4fd0-8374-24264f1578bb">
+<img width="374" alt="image" src="https://github.com/taristadwi/Flutter-Fundamental/assets/119827471/813a2670-4e53-4207-8236-fa78699087f3">
 
 HASIL RUNNING:
 
@@ -80,11 +88,11 @@ HASIL RUNNING:
 Langkah 6: Date and Time Pickers
 Date and Time Pickers termasuk pada kategori input dan selection widget, berikut adalah contoh penggunaan Date and Time Pickers.
 
-<img width="386" alt="image" src="https://github.com/taristadwi/Flutter-Fundamental/assets/119827471/bb25c128-e6c9-4cc3-818d-614e74143eb4">
+<img width="515" alt="image" src="https://github.com/taristadwi/Flutter-Fundamental/assets/119827471/866dff63-ac8c-430a-a136-e0bf05d65e7c">
 
-<img width="403" alt="image" src="https://github.com/taristadwi/Flutter-Fundamental/assets/119827471/1992e2f8-58f3-410f-afdb-61f4b1d146c3">
+<img width="466" alt="image" src="https://github.com/taristadwi/Flutter-Fundamental/assets/119827471/d02fac17-8686-457f-91e2-705b514b1c16">
 
-<img width="410" alt="image" src="https://github.com/taristadwi/Flutter-Fundamental/assets/119827471/efb8ad0d-913b-43fc-bb1d-4b345e28cfaf">
+
 
 HASIL RUNNING:
 

@@ -34,16 +34,37 @@ Buat file di basic_widgets > fab_widget.dart. Import stateless widget dari mater
 Langkah 3: Scaffold Widget
 Scaffold widget digunakan untuk mengatur tata letak sesuai dengan material design.
 Ubah isi kode main.dart seperti berikut.
+
 <img width="499" alt="image" src="https://github.com/taristadwi/Flutter-Fundamental/assets/119827471/4735beda-9f97-43d1-9008-cb658a8c61b3">
 <img width="795" alt="image" src="https://github.com/taristadwi/Flutter-Fundamental/assets/119827471/61fa18a7-f89f-4fc6-8468-b0e75295c0f8">
 <img width="506" alt="image" src="https://github.com/taristadwi/Flutter-Fundamental/assets/119827471/2785ad47-d115-419d-802e-5ef30965636a">
 
 HASIL RUNNING:
-<img width="960" alt="image" src="https://github.com/taristadwi/Flutter-Fundamental/assets/119827471/9acf0e7e-8770-4f11-b97f-0942fd7a0d80">
+<img width="960" alt="image" src="https://github.com/taristadwi/Flutter-Fundamental/assets/119827471/f52144ba-9551-46a7-ab6e-00e1ab02ce52">
+
 
 Langkah 4: Dialog Widget
 Dialog widget pada flutter memiliki dua jenis dialog yaitu AlertDialog dan SimpleDialog.
 Ubah isi kode main.dart seperti berikut.
+HASIL RUNNING
+<img width="959" alt="image" src="https://github.com/taristadwi/Flutter-Fundamental/assets/119827471/57af9f46-a41f-49a5-a5b7-12de525e62c3">
+
+Langkah 5: Input dan Selection Widget
+Flutter menyediakan widget yang dapat menerima input dari pengguna aplikasi yaitu antara lain Checkbox, Date and Time Pickers, Radio Button, Slider, Switch, TextField.
+
+Contoh penggunaan TextField widget adalah sebagai berikut:
+HASIL RUNNING:
+<img width="959" alt="image" src="https://github.com/taristadwi/Flutter-Fundamental/assets/119827471/e1dce04c-fe8f-4671-9174-e64bf2ef4958">
+
+Langkah 6: Date and Time Pickers
+Date and Time Pickers termasuk pada kategori input dan selection widget, berikut adalah contoh penggunaan Date and Time Pickers.
+HASIL RUNNING:
+<img width="959" alt="image" src="https://github.com/taristadwi/Flutter-Fundamental/assets/119827471/47fd44cc-5e22-4c39-9ece-d9d01fdde1a4">
+<img width="960" alt="image" src="https://github.com/taristadwi/Flutter-Fundamental/assets/119827471/3297b9f3-43ab-41f5-8735-0767ab0ec029">
+<img width="959" alt="image" src="https://github.com/taristadwi/Flutter-Fundamental/assets/119827471/9eb7b4c1-cefa-43f9-b70a-e480daf4e2e3">
+
+
+
 
 
 

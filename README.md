@@ -7,6 +7,7 @@ PRAKTIKUM 2 LANGKAH 12
 PRAKTIKUM 3 
 Langkah 1: Text Widget
 Buat folder baru basic_widgets di dalam folder lib. Kemudian buat file baru di dalam basic_widgets dengan nama text_widget.dart. Ketik atau salin kode program berikut ke project hello_world Anda pada file text_widget.dart.
+
 <img width="508" alt="image" src="https://github.com/taristadwi/Flutter-Fundamental/assets/119827471/1010fd9d-8944-4477-bf56-b763153f5fc4">
 Lakukan import file text_widget.dart ke main.dart, lalu ganti bagian text widget dengan kode di atas. Maka hasilnya seperti gambar berikut. Screenshot hasil milik Anda, lalu dibuat laporan pada file README.md.
 <img width="960" alt="image" src="https://github.com/taristadwi/Flutter-Fundamental/assets/119827471/84e1463e-a0fd-4bfe-a081-68ede08ccbb9">

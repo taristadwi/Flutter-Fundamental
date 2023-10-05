@@ -1,6 +1,7 @@
 # pertemuan5
 
 A new Flutter project.
+<img width="778" alt="image" src="https://github.com/taristadwi/Flutter-Fundamental/assets/119827471/b03032fb-0b9f-4117-990b-e13097d494cf">
 
 ## Getting Started
 
